@@ -1,1 +1,1 @@
-This are prototypes for GridSearch.
+These are prototypes for GridSearch.
